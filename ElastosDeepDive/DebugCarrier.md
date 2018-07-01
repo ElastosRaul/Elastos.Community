@@ -134,6 +134,6 @@ To debug the chat app as it is a native app, instead of using **node --inspect-b
 
 In the video we can see that in the javascript of the demo app is called **demo.js** and the javascript of the chat-app is called **index.js** where there are many breakpoints that can help us to debug an test the app.
 
-Well, Thanks for reading and watching and if you share any question, issue, idea or suggestion will be apreciated.
+Well, Thanks for reading and watching and if you share any question, issue, idea or suggestion will be appreciated.
 
 So, happy coding and happy debugging :)
