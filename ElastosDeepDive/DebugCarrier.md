@@ -49,7 +49,7 @@ Down below we could watch a video running the demo app and the chat-app so we ca
 
 ---
 
-The following intructions are the same process as in the video but in text format:
+The following instructions are the same process as in the video but in text format:
 
 1. To know how to run the two apps, what we will do first is to open a terminal in Visual Studio Code or you can open just a terminal without Visual Studio Code and follow this instructions from the README. This file help us to run the demo app from [The source code](https://github.com/elastos/Elastos.NET.Carrier.Nodejs.SDK/tree/master/example/demo).
 
@@ -110,7 +110,7 @@ Here you can watch a debugging walkthrough video
 
 ---
 
-There are two ways to debug the demo app. If it is your first time you debug the demo app one suggestion is to write in the terminal the following intruction in the folder of the demo app as we saw in the last video
+There are two ways to debug the demo app. If it is your first time you debug the demo app one suggestion is to write in the terminal the following instruction in the folder of the demo app as we saw in the last video
 
 ```console
 node --inspect-brk demo.js
